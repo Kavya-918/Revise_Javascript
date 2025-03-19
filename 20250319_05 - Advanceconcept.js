@@ -33,7 +33,8 @@ display()
  */
 
 
-//2.Hosiing - Taking function,variable providing theme a global sope
+//2.Hosiing - Before initialize the function we will access it called as hoisting 
+//Taking function,variable providing theme a global sope
 //Note: variable created with var only possible for hoistic
 //case 1 ----variables
 a=10
